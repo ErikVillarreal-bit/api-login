@@ -1,12 +1,19 @@
 const express = require('express')
 const mongoose = require('mongoose')
 const bodyParser = require('body-parser')
+const cors = require('cors')
 require('dotenv').config()
 
 const routes = require('./routes/index')
 
 const app = express()
 const PORT = 3000
+
+const corsOptions = {
+    origin: '*',
+    optionsSuccessStatus: 200
+}
+app.use(cors(corsOptions))
 
 app.use(bodyParser.urlencoded({extended: true}))
 app.use(bodyParser.json())
