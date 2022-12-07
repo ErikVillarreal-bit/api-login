@@ -12,6 +12,7 @@ _Herramientas que necesitas para ejecutar el proyecto._
 
 * [VSCode](https://code.visualstudio.com/download) - Descarga desde aquí!
 * [Node](https://nodejs.org/es/download/) - Descarga desde aquí!
+* [MongoDB Clous](https://account.mongodb.com/account/login) - Registrate para tener una base de datos!
 * [Vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project) - Documentación de instalación!
 * [bcrypt](https://www.npmjs.com/package/bcrypt)- Consulta la guía de instalación y uso!
 * [body-parser](https://www.npmjs.com/package/body-parser)- Consulta la guía de instalación y uso!
@@ -39,4 +40,4 @@ _Si realizaste los pasos anteriores correctamente tendrás algo similar a esto e
 ### Screenshots 📷
 [![Captura-desde-2022-12-07-15-38-40.png](https://i.postimg.cc/kg5LcSXB/Captura-desde-2022-12-07-15-38-40.png)](https://postimg.cc/7fpBPfzk)
 
-⚠ ⚠ ### NOTA: Es importante configurar tus credenciales de la base de datos en Mongoose Online ⚠ ⚠
+⚠ ⚠ ### NOTA: Es importante configurar tus credenciales de la base de datos en MongoDB Cloud ⚠ ⚠
