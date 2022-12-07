@@ -40,4 +40,5 @@ _Si realizaste los pasos anteriores correctamente tendrás algo similar a esto e
 ### Screenshots 📷
 [![Captura-desde-2022-12-07-15-38-40.png](https://i.postimg.cc/kg5LcSXB/Captura-desde-2022-12-07-15-38-40.png)](https://postimg.cc/7fpBPfzk)
 
-⚠ ⚠ ### NOTA: Es importante configurar tus credenciales de la base de datos en MongoDB Cloud ⚠ ⚠
+### ⚠ NOTA ⚠
+Es importante configurar tus credenciales de la base de datos en MongoDB Cloud
